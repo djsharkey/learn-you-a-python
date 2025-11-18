@@ -3,7 +3,7 @@ from typing import Any
 from core.clerk import Clerk
 from core.customer import Customer
 
-# NOTE: Feel free to change this class however needed, just keep the initial two method signatures in tack!
+# NOTE: Feel free to change this class however needed, just keep the initial two method signatures intact!
 
 class BankSecurity:
     def __init__(self, bank: Any):
